@@ -15,6 +15,6 @@
     "angular-datatables": "^0.5.5",
     "bootstrap": "^3.3.7",
     "restangular": "^1.6.1",
-    "lodash": "~3.0"
+    "lodash": "3.10.1"
   }
 }

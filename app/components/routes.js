@@ -1,15 +1,11 @@
-/**
- * Created by tobi on 6/1/17.
- */
-
-
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 
+
     $urlRouterProvider.otherwise(function ($injector) {
-
         var $state = $injector.get('$state');
-        $state.go('app');
 
+
+        $state.go('app');
     });
 
 
@@ -17,7 +13,7 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
         .state('app', {
             views: {
                 'layout': {
-                    templateUrl: 'index.html'
+                    templateUrl: 'views/start.html'
                 }
             }
         }).state('user', {
@@ -29,4 +25,6 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             }
         }
     })
+
+
 });

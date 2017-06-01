@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#1063AD" d="M34,57c0,0.5-0.4,1-1,1h-2c-0.6,0-1-0.5-1-1V5c0-0.6,0.4-1,1-1h2c0.6,0,1,0.4,1,1V57z"/>
+	</g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.0011" y1="26.1224" x2="32.0011" y2="-26.2312" gradientTransform="matrix(1 0 0 1.0294 0 24.3953)">
+		<stop  offset="0" style="stop-color:#E4DDDB"/>
+		<stop  offset="1" style="stop-color:#E9E4E2"/>
+	</linearGradient>
+	<rect x="4" y="9" fill="url(#SVGID_1_)" width="56" height="40"/>
+	<rect x="4" y="6" fill="#529AD6" width="56" height="3"/>
+	<rect x="4" y="49" fill="#529AD6" width="56" height="3"/>
+	<g>
+		<path fill="#529AD6" d="M18,60v-2c0-0.5,0.5-1,1-1h26c0.5,0,1,0.5,1,1v2"/>
+	</g>
+	<rect x="4" y="29" opacity="0.2" fill="#B9ADA7" width="56" height="20"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3175.7153" y1="3800.5312" x2="3175.7153" y2="3770.5288" gradientTransform="matrix(0.7509 0.6604 -0.6604 0.7509 147.3212 -4911.7949)">
+		<stop  offset="0" style="stop-color:#72645C"/>
+		<stop  offset="1" style="stop-color:#867A73"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M43.3,37.9c-5.5,6.2-15,6.8-21.2,1.4c-6.2-5.5-6.8-14.9-1.4-21.2c5.5-6.2,15-6.8,21.2-1.4
+		C48.1,22.2,48.7,31.7,43.3,37.9z"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_9_" points="32,8 32,28 43.7,39.2 55,27 			"/>
+		</defs>
+		<clipPath id="SVGID_3_">
+			<use xlink:href="#SVGID_9_"  overflow="visible"/>
+		</clipPath>
+		<path opacity="0.3" clip-path="url(#SVGID_3_)" fill="#FFFFFF" d="M43.3,37.9c-5.5,6.2-15,6.8-21.2,1.4
+			c-6.2-5.5-6.8-14.9-1.4-21.2c5.5-6.2,15-6.8,21.2-1.4C48.1,22.2,48.7,31.7,43.3,37.9z"/>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_11_" points="32,11.2 32,28 47,21 39.2,8 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_11_"  overflow="visible"/>
+		</clipPath>
+		<path opacity="0.3" clip-path="url(#SVGID_4_)" fill="#FFFFFF" d="M45.7,22c3.3,7.6-0.1,16.4-7.7,19.8c-7.6,3.3-16.4-0.1-19.8-7.7
+			c-3.3-7.6,0.1-16.4,7.7-19.8C33.6,10.9,42.4,14.4,45.7,22z"/>
+	</g>
+	<rect x="30" y="52" opacity="0.3" width="4" height="3"/>
+	<rect x="4" y="9" opacity="0.5" fill="#B9ADA7" width="56" height="2"/>
+</g>
+</svg>

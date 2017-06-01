@@ -13,48 +13,48 @@
     <title>My AngularJS App</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <!--CSS Files -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
     <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
     <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
     <link rel="stylesheet" href="app.css">
     <link rel="stylesheet" href="bower_components/angular-datatables/dist/css/angular-datatables.css">
     <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+    <link href="css/custom.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/1.2.2/css/buttons.dataTables.min.css">
+
+
 </head>
-<body>
+<body class="nav-md" ng-app="myApp">
 
 
-<div ui-view="layout"></div>
+<div ui-view="layout">
 
+
+</div>
+
+
+<!--Javascript-->
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
-
-
 <script src="bower_components/datatables.net/js/jquery.dataTables.js"></script>
-
 <script src="bower_components/angular/angular.js"></script>
 <script src="bower_components/angular-route/angular-route.js"></script>
 <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
-
-
 <script src="bower_components/angular-datatables/dist/angular-datatables.js"></script>
-
 <script src="bower_components/lodash/lodash.js"></script>
-
-
 <script type="text/javascript"
         src="http://cdnjs.cloudflare.com/ajax/libs/restangular/1.5.1/restangular.min.js"></script>
 
-
 <script src="app.js"></script>
-
 <script src="components/routes.js"></script>
-
 <script src="components/factories/apiFactory.js"></script>
-
-
 <script src="components/controllers/userController.js"></script>
-
-
 <script src="components/version/version.js"></script>
 <script src="components/version/version-directive.js"></script>
 <script src="components/version/interpolate-filter.js"></script>

@@ -13,7 +13,7 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
         .state('app', {
             views: {
                 'layout': {
-                    templateUrl: 'views/start.html'
+                    templateUrl: 'views/partials/template.html'
                 }
             }
         }).state('user', {
